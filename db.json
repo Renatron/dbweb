@@ -169,18 +169,23 @@
   ],
   "foto": [
     {
+      "id": 11,
       "img": "https://institutosupra.com.br/wp-content/uploads/2019/08/institutosupra_treinamento.jpg"
     },
     {
+      "id": 12,
       "img": "https://www.cignaglobalhealth.com/static/images/eu/en/article-health-and-wellbeing-8-2-banner.jpg"
     },
     {
+      "id": 13,
       "img": "https://wp2.commonsupport.com/newwp/foshan/wp-content/uploads/2017/12/image-1.jpg"
     },
     {
+      "id": 14,
       "img": "https://www.silicanetworks.com/wp-content/uploads/sites/5/pexels-canva-studio-3194523-scaled-e1600958735471-scaled.jpg"
     },
     {
+      "id": 15,
       "img": "https://www.tuv.com/content-media-files/germany/bs-academy-lifecare/images/lp-global-experts/tuv-rheinland-keyvisual-global-experts-employer-home.jpg"
     }
   ],
