@@ -58,13 +58,7 @@
   "producto": [
    
     
-    {
-      "idcategoria": 1,
-      "idproducto": 113,
-      "nombre": "Borrador",
-      "img": "https://storage.devnode.ru/product/d69b2e7d-8916-11e9-80c2-30e1715c5317/cba05fbf1eaea65aea23fe0478ffee18.jpg",
-      "precio": 2
-    },
+    
      {
       "idcategoria": 1,
       "idproducto": 114,
@@ -102,13 +96,7 @@
     },
     
     
-    {
-      "idcategoria": 2,
-      "idproducto": 223,
-      "nombre": "Calculadora",
-      "img": "https://avatars.mds.yandex.net/i?id=2a0000017a12bb756d0b9faaa737c7cb888c-4404575-images-thumbs&n=13&exp=1",
-      "precio": 15
-    },
+    
     {
       "idcategoria": 2,
       "idproducto": 224,
@@ -146,13 +134,7 @@
     },
   
    
-    {
-      "idcategoria": 3,
-      "idproducto": 333,
-      "nombre": "Jabon",
-      "img": "https://i.pinimg.com/236x/f1/8a/1a/f18a1a8df72b144e0db967ef165aab86--best-soap-high-schools.jpg",
-      "precio": 2
-    },
+   
     {
       "idcategoria": 3,
       "idproducto": 334,
@@ -190,13 +172,7 @@
     },
    
   
-    {
-      "idcategoria": 4,
-      "idproducto": 444,
-      "nombre": "Mouse",
-      "img": "https://4play.by/upload/resize_cache/iblock/3fc/200_192_1/3fcd4749d1644711f63708204595325f.png",
-      "precio": 39
-    },
+    
     {
       "idcategoria": 4,
       "idproducto": 445,
