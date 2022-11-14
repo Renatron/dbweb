@@ -1,0 +1,44 @@
+{
+  "slider": [
+    {
+      "id": 11,
+      "titulo": "Lorem ipsum dolor sit amet",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mollis elit et nisl pulvinar, lobortis."
+    },
+    {
+      "id": 12,
+      "titulo": "Lorem ipsum dolor sit amet",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mollis elit et nisl pulvinar, lobortis."
+    },
+   {
+      "id": 13,
+      "titulo": "Lorem ipsum dolor sit amet",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mollis elit et nisl pulvinar, lobortis."
+    },
+    {
+      "id": 14,
+      "titulo": "Lorem ipsum dolor sit amet",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mollis elit et nisl pulvinar, lobortis."
+    },
+    {
+      "id": 15,
+      "titulo": "Lorem ipsum dolor sit amet",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mollis elit et nisl pulvinar, lobortis."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
