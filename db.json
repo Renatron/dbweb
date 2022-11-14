@@ -57,13 +57,7 @@
   
   "producto": [
    
-    {
-      "idcategoria": 1,
-      "idproducto": 112,
-      "nombre": "Lapiceros",
-      "img": "https://storage.devnode.ru/product/3b827e2d-c16b-11e8-80c2-30e1715c5317/1f35e06fde1f4b1c762df861589f6892.jpg",
-      "precio": 5
-    },
+    
     {
       "idcategoria": 1,
       "idproducto": 113,
@@ -107,13 +101,7 @@
       "precio": 1
     },
     
-    {
-      "idcategoria": 2,
-      "idproducto": 222,
-      "nombre": "Regla",
-      "img": "https://www.burokrat.ua/images/products/192x192/93518.jpg",
-      "precio": 1
-    },
+    
     {
       "idcategoria": 2,
       "idproducto": 223,
@@ -157,13 +145,7 @@
       "precio": 19
     },
   
-    {
-      "idcategoria": 3,
-      "idproducto": 332,
-      "nombre": "Desatorador",
-      "img": "https://storage.devnode.ru/product/810293e8-6084-11eb-80c2-30e1715c5317/3d6d11d02d5f4dedcdad925f5b062a8e.jpg",
-      "precio": 11
-    },
+   
     {
       "idcategoria": 3,
       "idproducto": 333,
@@ -207,20 +189,7 @@
       "precio": 30
     },
    
-     {
-      "idcategoria": 4,
-      "idproducto": 442,
-      "nombre": "Ipad",
-      "img": "https://macsense.co.nz/wp-content/uploads/iPad-mini.jpg",
-      "precio": 899
-    },
-    {
-      "idcategoria": 4,
-      "idproducto": 443,
-      "nombre": "Monitor",
-      "img": "https://i01.fotocdn.net/s20/5/community_192/0/904.jpg?20131026113720",
-      "precio": 759
-    },
+  
     {
       "idcategoria": 4,
       "idproducto": 444,
