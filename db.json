@@ -2,31 +2,31 @@
   "slider": [
     {
       "id": 11,
-      "img": "https://institutosupra.com.br/wp-content/uploads/2019/08/institutosupra_treinamento.jpg",
+      "img": "https://institutosupra.com.br/wp-content/uploads/2019/08/institutosupra_treinamento.jpg"
       "titulo": "Ofinicas abiertas 24 horas",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mollis elit et nisl pulvinar, lobortis."
     },
     {
       "id": 12,
-      "img": "https://www.cignaglobalhealth.com/static/images/eu/en/article-health-and-wellbeing-8-2-banner.jpg",
+      "img": "https://www.cignaglobalhealth.com/static/images/eu/en/article-health-and-wellbeing-8-2-banner.jpg"
       "titulo": "Lo mejor de nosotros para ti",
       "descripcion": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum"
     },
    {
       "id": 13,
-      "img": "https://wp2.commonsupport.com/newwp/foshan/wp-content/uploads/2017/12/image-1.jpg",
+      "img": "https://wp2.commonsupport.com/newwp/foshan/wp-content/uploads/2017/12/image-1.jpg"
       "titulo": "Variedad de productos",
       "descripcion": "Aliquam purus sit amet luctus. Laoreet non curabitur gravida arcu ac tortor."
     },
     {
       "id": 14,
-      "img": "https://www.silicanetworks.com/wp-content/uploads/sites/5/pexels-canva-studio-3194523-scaled-e1600958735471-scaled.jpg",
+      "img": "https://www.silicanetworks.com/wp-content/uploads/sites/5/pexels-canva-studio-3194523-scaled-e1600958735471-scaled.jpg"
       "titulo": "Atencion de primera",
       "descripcion": " Vel facilisis volutpat est velit. Cursus in hac habitasse platea dictumst quisque sagittis purus."
     },
     {
       "id": 15,
-      "img": "https://www.tuv.com/content-media-files/germany/bs-academy-lifecare/images/lp-global-experts/tuv-rheinland-keyvisual-global-experts-employer-home.jpg",
+      "img": "https://www.tuv.com/content-media-files/germany/bs-academy-lifecare/images/lp-global-experts/tuv-rheinland-keyvisual-global-experts-employer-home.jpg"
       "titulo": "Cobertura internacional",
       "descripcion": "Sit amet venenatis urna cursus eget. Massa enim nec dui nunc mattis enim ut tellus."
     }
@@ -63,28 +63,28 @@
       "idcategoria": 1,
       "idproducto": 114,
       "nombre": "Clips",
-      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_(Anime)_character_image.png",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_(Anime)_character_image.png"
       "precio": 3
     },
     {
       "idcategoria": 1,
       "idproducto": 115,
       "nombre": "Resaltador",
-      "img": "https://kancwagon.ru/wa-data/public/shop/products/63/73/97363/images/70466/70466.96x96@2x.jpeg",
+      "img": "https://kancwagon.ru/wa-data/public/shop/products/63/73/97363/images/70466/70466.96x96@2x.jpeg"
       "precio": 4
     },
     {
       "idcategoria": 1,
       "idproducto": 116,
       "nombre": "Engrapador",
-      "img": "https://storage.devnode.ru/product/58c404d7-c0dc-11ea-80c2-30e1715c5317/b65269403d8fd7910687c33b1688738f.jpg",
+      "img": "https://storage.devnode.ru/product/58c404d7-c0dc-11ea-80c2-30e1715c5317/b65269403d8fd7910687c33b1688738f.jpg"
       "precio": 2
     },
     {
       "idcategoria": 1,
       "idproducto": 117,
       "nombre": "Post it",
-      "img": "https://i.actva.cz/i/1/1/fd4/38fd4/250x250/mF4ykK_192x192_5c34133735bb3680.jpg",
+      "img": "https://i.actva.cz/i/1/1/fd4/38fd4/250x250/mF4ykK_192x192_5c34133735bb3680.jpg"
       "precio": 1
     },
     
@@ -92,28 +92,28 @@
       "idcategoria": 2,
       "idproducto": 224,
       "nombre": "Portafolio",
-      "img": "https://www.dik24.ru/upload/iblock/e26/e26688aec223a97a5c339ffec731bca8.jpg",
+      "img": "https://www.dik24.ru/upload/iblock/e26/e26688aec223a97a5c339ffec731bca8.jpg"
       "precio": 20
     },
     {
       "idcategoria": 2,
       "idproducto": 225,
       "nombre": "Cuaderno anillado",
-      "img": "https://storage.devnode.ru/product/6bf317dc-6b75-11e6-93fa-000e1e39fe14/81ade9a5a19052ba44aeed6532771acd.jpg",
+      "img": "https://storage.devnode.ru/product/6bf317dc-6b75-11e6-93fa-000e1e39fe14/81ade9a5a19052ba44aeed6532771acd.jpg"
       "precio": 8
     },
     {
       "idcategoria": 2,
       "idproducto": 226,
       "nombre": "Mochila",
-      "img": "https://fandomir.ru/wa-data/public/shop/products/72/21/32172/images/49924/49924.96x96@2x.jpg",
+      "img": "https://fandomir.ru/wa-data/public/shop/products/72/21/32172/images/49924/49924.96x96@2x.jpg"
       "precio": 30
     },
     {
       "idcategoria": 2,
       "idproducto": 227,
       "nombre": "Cartuchera",
-      "img": "https://www.grafs.com/uploads/product-picture/192/85585.jpg",
+      "img": "https://www.grafs.com/uploads/product-picture/192/85585.jpg"
       "precio": 12
     },
     
@@ -121,49 +121,49 @@
       "idcategoria": 3,
       "idproducto": 334,
       "nombre": "Esponja",
-      "img": "https://f95zone.to/data/avatars/l/767/767074.jpg?1571489529",
+      "img": "https://f95zone.to/data/avatars/l/767/767074.jpg?1571489529"
       "precio": 1
     },
     {
       "idcategoria": 3,
       "idproducto": 335,
       "nombre": "Lavavajillas",
-      "img": "https://supplysourceonline.com/images/45112pg.jpg",
+      "img": "https://supplysourceonline.com/images/45112pg.jpg"
       "precio": 3
     },
     {
       "idcategoria": 3,
       "idproducto": 336,
       "nombre": "Detergente",
-      "img": "https://a.allegroimg.com/s180/11ae4b/9bde9ec548abb3f68131e4f768d1/Tide-96-free-gentle-4-43L-zel-do-prania",
+      "img": "https://a.allegroimg.com/s180/11ae4b/9bde9ec548abb3f68131e4f768d1/Tide-96-free-gentle-4-43L-zel-do-prania"
       "precio": 30
     },
     {
       "idcategoria": 3,
       "idproducto": 337,
       "nombre": "Suavizante",
-      "img": "http://1.bp.blogspot.com/-94cJI2AlhKM/Tcf_vnzz9yI/AAAAAAAAAag/7ui_WBPMhrk/s1600/untitled.bmp",
+      "img": "http://1.bp.blogspot.com/-94cJI2AlhKM/Tcf_vnzz9yI/AAAAAAAAAag/7ui_WBPMhrk/s1600/untitled.bmp"
       "precio": 28
     },
     {
       "idcategoria": 4,
       "idproducto": 445,
       "nombre": "Teclado",
-      "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/192392-192-192/teclado-gamer-logitech-g213-prodigy-rgb-abnt2-920-009438-1.jpg?v=637290447116100000",
+      "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/192392-192-192/teclado-gamer-logitech-g213-prodigy-rgb-abnt2-920-009438-1.jpg?v=637290447116100000"
       "precio": 42
     },
     {
       "idcategoria": 4,
       "idproducto": 446,
       "nombre": "Audifonos",
-      "img": "https://freepngdownload.com/image/head-phones-png-free-image-download-3.png",
+      "img": "https://freepngdownload.com/image/head-phones-png-free-image-download-3.png"
       "precio": 89
     },
      {
       "idcategoria": 4,
       "idproducto": 447,
       "nombre": "Laptop",
-      "img": "https://s3n.cashify.in/cashify/product/img/xhdpi/7c1254af-b6aa.jpg",
+      "img": "https://s3n.cashify.in/cashify/product/img/xhdpi/7c1254af-b6aa.jpg"
       "precio": 2300
     },
     {
