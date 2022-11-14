@@ -56,13 +56,7 @@
   ],
   
   "producto": [
-    {
-      "idcategoria": 1,
-      "idproducto": 111,
-      "nombre": "Colores",
-      "img": "https://freepngdownload.com/image/pencil-png-free-download-11.png",
-      "precio": 4
-    },
+   
     {
       "idcategoria": 1,
       "idproducto": 112,
@@ -112,13 +106,7 @@
       "img": "https://i.actva.cz/i/1/1/fd4/38fd4/250x250/mF4ykK_192x192_5c34133735bb3680.jpg",
       "precio": 1
     },
-    {
-      "idcategoria": 2,
-      "idproducto": 221,
-      "nombre": "Transportador",
-      "img": "https://storage.devnode.ru/product/ee95a016-3a07-11e7-9407-acf1df3ff64b/2229df58dd2ee2e3b5cbdcea9625e145.jpg",
-      "precio": 1
-    },
+    
     {
       "idcategoria": 2,
       "idproducto": 222,
@@ -168,13 +156,7 @@
       "img": "https://www.burokrat.ua/images/products/192x192/94601_06.jpg",
       "precio": 19
     },
-    {
-      "idcategoria": 3,
-      "idproducto": 331,
-      "nombre": "Limpia Vidrios",
-      "img": "https://storage.devnode.ru/product/09928c1b-7581-11e9-80c2-30e1715c5317/bd31e767b1417ba5c247a6d5098972de.jpg",
-      "precio": 9
-    },
+  
     {
       "idcategoria": 3,
       "idproducto": 332,
@@ -224,13 +206,7 @@
       "img": "https://www.playerup.com/data/avatars/l/125/125570.jpg?1481165465",
       "precio": 30
     },
-    {
-      "idcategoria": 4,
-      "idproducto": 441,
-      "nombre": "Impresora",
-      "img": "https://freepngdownload.com/image/printer-png-free-download-8.png",
-      "precio": 499
-    },
+   
      {
       "idcategoria": 4,
       "idproducto": 442,
