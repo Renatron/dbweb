@@ -34,22 +34,22 @@
   
   "categoria": [
     {
-      "idcategoria": 001,
+      "idcategoria": 1,
       "nombre": "Oficina",
       "descripcion": "Articulos de variedad para oficina"
     },
     {
-      "idcategoria": 002,
+      "idcategoria": 2,
       "nombre": "Libreria",
       "descripcion": "Lo mejor para la escuela"
     },
     {
-      "idcategoria": 003,
+      "idcategoria": 3,
       "nombre": "Limpieza",
       "descripcion": "Para la limpieza del hogar"
     },
     {
-      "idcategoria": 004,
+      "idcategoria": 4,
       "nombre": "Electronica",
       "descripcion": "Articulos electronicos de oficina"
     }
@@ -57,224 +57,224 @@
   
   "producto": [
     {
-      "idcategoria": 001,
+      "idcategoria": 1,
       "idproducto": 111,
       "nombre": "Colores",
       "img": "https://freepngdownload.com/image/pencil-png-free-download-11.png",
       "precio": 4
     },
     {
-      "idcategoria": 001,
+      "idcategoria": 1,
       "idproducto": 112,
       "nombre": "Lapiceros",
       "img": "https://storage.devnode.ru/product/3b827e2d-c16b-11e8-80c2-30e1715c5317/1f35e06fde1f4b1c762df861589f6892.jpg",
       "precio": 5
     },
     {
-      "idcategoria": 001,
+      "idcategoria": 1,
       "idproducto": 113,
       "nombre": "Borrador",
       "img": "https://storage.devnode.ru/product/d69b2e7d-8916-11e9-80c2-30e1715c5317/cba05fbf1eaea65aea23fe0478ffee18.jpg",
       "precio": 2
     },
      {
-      "idcategoria": 001,
+      "idcategoria": 1,
       "idproducto": 114,
       "nombre": "Clips",
       "img": "https://i.pinimg.com/736x/ce/99/13/ce991312fdd6b3905da40ba5d8166b11--green-office-green-life.jpg",
       "precio": 3
     },
     {
-      "idcategoria": 001,
+      "idcategoria": 1,
       "idproducto": 115,
       "nombre": "Resaltador",
       "img": "https://kancwagon.ru/wa-data/public/shop/products/63/73/97363/images/70466/70466.96x96@2x.jpeg",
       "precio": 4
     },
     {
-      "idcategoria": 001,
+      "idcategoria": 1,
       "idproducto": 116,
       "nombre": "Engrapador",
       "img": "https://storage.devnode.ru/product/58c404d7-c0dc-11ea-80c2-30e1715c5317/b65269403d8fd7910687c33b1688738f.jpg",
       "precio": 2
     },
     {
-      "idcategoria": 001,
+      "idcategoria": 1,
       "idproducto": 117,
       "nombre": "Post it",
       "img": "https://i.actva.cz/i/1/1/fd4/38fd4/250x250/mF4ykK_192x192_5c34133735bb3680.jpg",
       "precio": 1
     },
     {
-      "idcategoria": 001,
+      "idcategoria": 1,
       "idproducto": 118,
       "nombre": "Post it",
       "img": "https://i.actva.cz/i/1/1/fd4/38fd4/250x250/mF4ykK_192x192_5c34133735bb3680.jpg",
       "precio": 1
     },
     {
-      "idcategoria": 002,
+      "idcategoria": 2,
       "idproducto": 221,
       "nombre": "Transportador",
       "img": "https://storage.devnode.ru/product/ee95a016-3a07-11e7-9407-acf1df3ff64b/2229df58dd2ee2e3b5cbdcea9625e145.jpg",
       "precio": 1
     },
     {
-      "idcategoria": 002,
+      "idcategoria": 2,
       "idproducto": 222,
       "nombre": "Regla",
       "img": "https://www.burokrat.ua/images/products/192x192/93518.jpg",
       "precio": 1
     },
     {
-      "idcategoria": 002,
+      "idcategoria": 2,
       "idproducto": 223,
       "nombre": "Calculadora",
       "img": "https://avatars.mds.yandex.net/i?id=2a0000017a12bb756d0b9faaa737c7cb888c-4404575-images-thumbs&n=13&exp=1",
       "precio": 15
     },
     {
-      "idcategoria": 002,
+      "idcategoria": 2,
       "idproducto": 224,
       "nombre": "Portafolio",
       "img": "https://www.dik24.ru/upload/iblock/e26/e26688aec223a97a5c339ffec731bca8.jpg",
       "precio": 20
     },
     {
-      "idcategoria": 002,
+      "idcategoria": 2,
       "idproducto": 225,
       "nombre": "Cuaderno anillado",
       "img": "https://storage.devnode.ru/product/6bf317dc-6b75-11e6-93fa-000e1e39fe14/81ade9a5a19052ba44aeed6532771acd.jpg",
       "precio": 8
     },
     {
-      "idcategoria": 002,
+      "idcategoria": 2,
       "idproducto": 226,
       "nombre": "Mochila",
       "img": "https://fandomir.ru/wa-data/public/shop/products/72/21/32172/images/49924/49924.96x96@2x.jpg",
       "precio": 30
     },
     {
-      "idcategoria": 002,
+      "idcategoria": 2,
       "idproducto": 227,
       "nombre": "Cartuchera",
       "img": "https://www.grafs.com/uploads/product-picture/192/85585.jpg",
       "precio": 12
     },
     {
-      "idcategoria": 002,
+      "idcategoria": 2,
       "idproducto": 228,
       "nombre": "Termo",
       "img": "https://www.burokrat.ua/images/products/192x192/94601_06.jpg",
       "precio": 19
     },
     {
-      "idcategoria": 003,
+      "idcategoria": 3,
       "idproducto": 331,
       "nombre": "Limpia Vidrios",
       "img": "https://storage.devnode.ru/product/09928c1b-7581-11e9-80c2-30e1715c5317/bd31e767b1417ba5c247a6d5098972de.jpg",
       "precio": 9
     },
     {
-      "idcategoria": 003,
+      "idcategoria": 3,
       "idproducto": 332,
       "nombre": "Desatorador",
       "img": "https://storage.devnode.ru/product/810293e8-6084-11eb-80c2-30e1715c5317/3d6d11d02d5f4dedcdad925f5b062a8e.jpg",
       "precio": 11
     },
     {
-      "idcategoria": 003,
+      "idcategoria": 3,
       "idproducto": 333,
       "nombre": "Jabon",
       "img": "https://i.pinimg.com/236x/f1/8a/1a/f18a1a8df72b144e0db967ef165aab86--best-soap-high-schools.jpg",
       "precio": 2
     },
     {
-      "idcategoria": 003,
+      "idcategoria": 3,
       "idproducto": 334,
       "nombre": "Esponja",
       "img": "https://f95zone.to/data/avatars/l/767/767074.jpg?1571489529",
       "precio": 1
     },
     {
-      "idcategoria": 003,
+      "idcategoria": 3,
       "idproducto": 335,
       "nombre": "Lavavajillas",
       "img": "https://supplysourceonline.com/images/45112pg.jpg",
       "precio": 3
     },
     {
-      "idcategoria": 003,
+      "idcategoria": 3,
       "idproducto": 336,
       "nombre": "Detergente",
       "img": "https://a.allegroimg.com/s180/11ae4b/9bde9ec548abb3f68131e4f768d1/Tide-96-free-gentle-4-43L-zel-do-prania",
       "precio": 30
     },
     {
-      "idcategoria": 003,
+      "idcategoria": 3,
       "idproducto": 337,
       "nombre": "Suavizante",
       "img": "http://1.bp.blogspot.com/-94cJI2AlhKM/Tcf_vnzz9yI/AAAAAAAAAag/7ui_WBPMhrk/s1600/untitled.bmp",
       "precio": 28
     },
     {
-      "idcategoria": 003,
+      "idcategoria": 3,
       "idproducto": 338,
       "nombre": "Desinfectante",
       "img": "https://www.playerup.com/data/avatars/l/125/125570.jpg?1481165465",
       "precio": 30
     },
     {
-      "idcategoria": 004,
+      "idcategoria": 4,
       "idproducto": 441,
       "nombre": "Impresora",
       "img": "https://freepngdownload.com/image/printer-png-free-download-8.png",
       "precio": 499
     },
      {
-      "idcategoria": 004,
+      "idcategoria": 4,
       "idproducto": 442,
       "nombre": "Ipad",
       "img": "https://macsense.co.nz/wp-content/uploads/iPad-mini.jpg",
       "precio": 899
     },
     {
-      "idcategoria": 004,
+      "idcategoria": 4,
       "idproducto": 443,
       "nombre": "Monitor",
       "img": "https://i01.fotocdn.net/s20/5/community_192/0/904.jpg?20131026113720",
       "precio": 759
     },
     {
-      "idcategoria": 004,
+      "idcategoria": 4,
       "idproducto": 444,
       "nombre": "Mouse",
       "img": "https://4play.by/upload/resize_cache/iblock/3fc/200_192_1/3fcd4749d1644711f63708204595325f.png",
       "precio": 39
     },
     {
-      "idcategoria": 004,
+      "idcategoria": 4,
       "idproducto": 445,
       "nombre": "Teclado",
       "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/192392-192-192/teclado-gamer-logitech-g213-prodigy-rgb-abnt2-920-009438-1.jpg?v=637290447116100000",
       "precio": 42
     },
     {
-      "idcategoria": 004,
+      "idcategoria": 4,
       "idproducto": 446,
       "nombre": "Audifonos",
       "img": "https://freepngdownload.com/image/head-phones-png-free-image-download-3.png",
       "precio": 89
     },
      {
-      "idcategoria": 004,
+      "idcategoria": 4,
       "idproducto": 447,
       "nombre": "Laptop",
       "img": "https://s3n.cashify.in/cashify/product/img/xhdpi/7c1254af-b6aa.jpg",
       "precio": 2300
     },
     {
-      "idcategoria": 004,
+      "idcategoria": 4,
       "idproducto": 448,
       "nombre": "Router",
       "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/205517-192-192/roteador-wi-fi-intelbras-rf301k-300mbbs-2-antenas-4750073-1.jpg?v=637364791923130000",
