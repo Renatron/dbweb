@@ -87,15 +87,6 @@
       "img": "https://i.actva.cz/i/1/1/fd4/38fd4/250x250/mF4ykK_192x192_5c34133735bb3680.jpg",
       "precio": 1
     },
-    {
-      "idcategoria": 1,
-      "idproducto": 118,
-      "nombre": "Post it",
-      "img": "https://i.actva.cz/i/1/1/fd4/38fd4/250x250/mF4ykK_192x192_5c34133735bb3680.jpg",
-      "precio": 1
-    },
-    
-    
     
     {
       "idcategoria": 2,
@@ -125,16 +116,7 @@
       "img": "https://www.grafs.com/uploads/product-picture/192/85585.jpg",
       "precio": 12
     },
-    {
-      "idcategoria": 2,
-      "idproducto": 228,
-      "nombre": "Termo",
-      "img": "https://www.burokrat.ua/images/products/192x192/94601_06.jpg",
-      "precio": 19
-    },
-  
-   
-   
+    
     {
       "idcategoria": 3,
       "idproducto": 334,
@@ -164,16 +146,6 @@
       "precio": 28
     },
     {
-      "idcategoria": 3,
-      "idproducto": 338,
-      "nombre": "Desinfectante",
-      "img": "https://www.playerup.com/data/avatars/l/125/125570.jpg?1481165465",
-      "precio": 30
-    },
-   
-  
-    
-    {
       "idcategoria": 4,
       "idproducto": 445,
       "nombre": "Teclado",
@@ -200,8 +172,24 @@
       "nombre": "Router",
       "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/205517-192-192/roteador-wi-fi-intelbras-rf301k-300mbbs-2-antenas-4750073-1.jpg?v=637364791923130000",
       "precio": 75
+    } 
+  ],
+  "foto": [
+    {
+      "img": "https://institutosupra.com.br/wp-content/uploads/2019/08/institutosupra_treinamento.jpg"
+    },
+    {
+      "img": "https://www.cignaglobalhealth.com/static/images/eu/en/article-health-and-wellbeing-8-2-banner.jpg"
+    },
+    {
+      "img": "https://wp2.commonsupport.com/newwp/foshan/wp-content/uploads/2017/12/image-1.jpg"
+    },
+    {
+      "img": "https://www.silicanetworks.com/wp-content/uploads/sites/5/pexels-canva-studio-3194523-scaled-e1600958735471-scaled.jpg"
+    },
+    {
+      "img": "https://www.tuv.com/content-media-files/germany/bs-academy-lifecare/images/lp-global-experts/tuv-rheinland-keyvisual-global-experts-employer-home.jpg"
     }
-   
   ],
   
   "profile": {
