@@ -3,26 +3,32 @@
     {
       "id": 11,
       "titulo": "Ofinicas abiertas 24 horas",
+      "img": "https://institutosupra.com.br/wp-content/uploads/2019/08/institutosupra_treinamento.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mollis elit et nisl pulvinar, lobortis."
     },
     {
       "id": 12,
       "titulo": "Lo mejor de nosotros para ti",
+      "img": "https://www.cignaglobalhealth.com/static/images/eu/en/article-health-and-wellbeing-8-2-banner.jpg",
       "descripcion": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum"
     },
    {
       "id": 13,
       "titulo": "Variedad de productos",
+      "img": "https://wp2.commonsupport.com/newwp/foshan/wp-content/uploads/2017/12/image-1.jpg",
       "descripcion": "Aliquam purus sit amet luctus. Laoreet non curabitur gravida arcu ac tortor."
+     
     },
     {
       "id": 14,
       "titulo": "Atencion de primera",
+      "img": "https://www.silicanetworks.com/wp-content/uploads/sites/5/pexels-canva-studio-3194523-scaled-e1600958735471-scaled.jpg",
       "descripcion": " Vel facilisis volutpat est velit. Cursus in hac habitasse platea dictumst quisque sagittis purus."
     },
     {
       "id": 15,
       "titulo": "Cobertura internacional",
+      "https://www.tuv.com/content-media-files/germany/bs-academy-lifecare/images/lp-global-experts/tuv-rheinland-keyvisual-global-experts-employer-home.jpg",
       "descripcion": "Sit amet venenatis urna cursus eget. Massa enim nec dui nunc mattis enim ut tellus."
     }
   ],
@@ -167,29 +173,7 @@
       "precio": 74
     } 
   ],
-  "foto": [
-    {
-      "id": 11,
-      "img": "https://institutosupra.com.br/wp-content/uploads/2019/08/institutosupra_treinamento.jpg"
-    },
-    {
-      "id": 12,
-      "img": "https://www.cignaglobalhealth.com/static/images/eu/en/article-health-and-wellbeing-8-2-banner.jpg"
-    },
-    {
-      "id": 13,
-      "img": "https://wp2.commonsupport.com/newwp/foshan/wp-content/uploads/2017/12/image-1.jpg"
-    },
-    {
-      "id": 14,
-      "img": "https://www.silicanetworks.com/wp-content/uploads/sites/5/pexels-canva-studio-3194523-scaled-e1600958735471-scaled.jpg"
-    },
-    {
-      "id": 15,
-      "img": "https://www.tuv.com/content-media-files/germany/bs-academy-lifecare/images/lp-global-experts/tuv-rheinland-keyvisual-global-experts-employer-home.jpg"
-    }
-  ],
-  
+
   "profile": {
     "name": "typicode"
   }
