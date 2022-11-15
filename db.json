@@ -92,13 +92,6 @@
       "precio": 4
     },
     {
-      "idcategoria": 1,
-      "idproducto": 116,
-      "nombre": "Engrapador",
-      "img": "https://storage.devnode.ru/product/58c404d7-c0dc-11ea-80c2-30e1715c5317/b65269403d8fd7910687c33b1688738f.jpg",
-      "precio": 2
-    },
-    {
       "idcategoria": 2,
       "idproducto": 221,
       "nombre": "Transportador",
@@ -128,13 +121,6 @@
     },
     {
       "idcategoria": 2,
-      "idproducto": 225,
-      "nombre": "Cuaderno anillado",
-      "img": "https://storage.devnode.ru/product/6bf317dc-6b75-11e6-93fa-000e1e39fe14/81ade9a5a19052ba44aeed6532771acd.jpg",
-      "precio": 8
-    },
-    {
-      "idcategoria": 2,
       "idproducto": 226,
       "nombre": "Mochila",
       "img": "https://fandomir.ru/wa-data/public/shop/products/72/21/32172/images/49924/49924.96x96@2x.jpg",
@@ -153,13 +139,6 @@
       "nombre": "Desatorador",
       "img": "https://storage.devnode.ru/product/810293e8-6084-11eb-80c2-30e1715c5317/3d6d11d02d5f4dedcdad925f5b062a8e.jpg",
       "precio": 11
-    },
-    {
-      "idcategoria": 3,
-      "idproducto": 333,
-      "nombre": "Jabon",
-      "img": "https://i.pinimg.com/236x/f1/8a/1a/f18a1a8df72b144e0db967ef165aab86--best-soap-high-schools.jpg",
-      "precio": 2
     },
     {
       "idcategoria": 3,
