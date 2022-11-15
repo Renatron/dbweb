@@ -99,20 +99,6 @@
       "precio": 2
     },
     {
-      "idcategoria": 1,
-      "idproducto": 117,
-      "nombre": "Post it",
-      "img": "https://i.actva.cz/i/1/1/fd4/38fd4/250x250/mF4ykK_192x192_5c34133735bb3680.jpg",
-      "precio": 1
-    },
-    {
-      "idcategoria": 1,
-      "idproducto": 118,
-      "nombre": "Post it",
-      "img": "https://i.actva.cz/i/1/1/fd4/38fd4/250x250/mF4ykK_192x192_5c34133735bb3680.jpg",
-      "precio": 1
-    },
-    {
       "idcategoria": 2,
       "idproducto": 221,
       "nombre": "Transportador",
@@ -153,20 +139,6 @@
       "nombre": "Mochila",
       "img": "https://fandomir.ru/wa-data/public/shop/products/72/21/32172/images/49924/49924.96x96@2x.jpg",
       "precio": 30
-    },
-    {
-      "idcategoria": 2,
-      "idproducto": 227,
-      "nombre": "Cartuchera",
-      "img": "https://www.grafs.com/uploads/product-picture/192/85585.jpg",
-      "precio": 12
-    },
-    {
-      "idcategoria": 2,
-      "idproducto": 228,
-      "nombre": "Termo",
-      "img": "https://www.burokrat.ua/images/products/192x192/94601_06.jpg",
-      "precio": 19
     },
     {
       "idcategoria": 3,
@@ -211,20 +183,6 @@
       "precio": 30
     },
     {
-      "idcategoria": 3,
-      "idproducto": 337,
-      "nombre": "Suavizante",
-      "img": "http://1.bp.blogspot.com/-94cJI2AlhKM/Tcf_vnzz9yI/AAAAAAAAAag/7ui_WBPMhrk/s1600/untitled.bmp",
-      "precio": 28
-    },
-    {
-      "idcategoria": 3,
-      "idproducto": 338,
-      "nombre": "Desinfectante",
-      "img": "https://www.playerup.com/data/avatars/l/125/125570.jpg?1481165465",
-      "precio": 30
-    },
-    {
       "idcategoria": 4,
       "idproducto": 441,
       "nombre": "Impresora",
@@ -251,36 +209,7 @@
       "nombre": "Mouse",
       "img": "https://4play.by/upload/resize_cache/iblock/3fc/200_192_1/3fcd4749d1644711f63708204595325f.png",
       "precio": 39
-    },
-    {
-      "idcategoria": 4,
-      "idproducto": 445,
-      "nombre": "Teclado",
-      "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/192392-192-192/teclado-gamer-logitech-g213-prodigy-rgb-abnt2-920-009438-1.jpg?v=637290447116100000",
-      "precio": 42
-    },
-    {
-      "idcategoria": 4,
-      "idproducto": 446,
-      "nombre": "Audifonos",
-      "img": "https://freepngdownload.com/image/head-phones-png-free-image-download-3.png",
-      "precio": 89
-    },
-     {
-      "idcategoria": 4,
-      "idproducto": 447,
-      "nombre": "Laptop",
-      "img": "https://s3n.cashify.in/cashify/product/img/xhdpi/7c1254af-b6aa.jpg",
-      "precio": 2300
-    },
-    {
-      "idcategoria": 4,
-      "idproducto": 448,
-      "nombre": "Router",
-      "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/205517-192-192/roteador-wi-fi-intelbras-rf301k-300mbbs-2-antenas-4750073-1.jpg?v=637364791923130000",
-      "precio": 75
-    }
-   
+    }   
   ],
   
   "profile": {
